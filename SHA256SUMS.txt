@@ -1,0 +1,3 @@
+908231bf1840523fca80a5fe0b52701da9cd618b5f79dc6808adb61f5be8cdca  HEX-Windows-x64-dev8.zip
+29e45585f68633dd288381cf010b69f8e14cd2d401a708c1d76eb1c11da05998  HEX-macOS-apple-silicon-dev8.tar.gz
+296aaa4b9fc16c237eec3398fe25c9798aac65f1ddc9a68eb7439752305860af  HEX-macOS-intel-dev8.tar.gz
