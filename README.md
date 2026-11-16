@@ -14,12 +14,20 @@ HEX Agent 是 Codex 里的视觉创作搭档。
 
 ## 下载
 
-- [Windows 64 位](https://github.com/jasperhex45-design/hex-agent-download/raw/refs/heads/main/HEX-Windows-x64-dev8.zip)
-- [Mac · Apple 芯片](https://github.com/jasperhex45-design/hex-agent-download/raw/refs/heads/main/HEX-macOS-apple-silicon-dev8.tar.gz)
-- [Mac · Intel 芯片](https://github.com/jasperhex45-design/hex-agent-download/raw/refs/heads/main/HEX-macOS-intel-dev8.tar.gz)
+当前新增试用版为 **1.0.0a9.dev17**。本分支用于审核下载更新，PR 合并后才会更新 main 页面。
+
+- [Windows 64 位 · dev17](https://github.com/jasperhex45-design/hex-agent-download/raw/refs/heads/release/dev17-packages/HEX-Windows-x64-dev17.zip)
+
+文件校验见 [SHA256SUMS.txt](SHA256SUMS.txt)。dev17 同步当前代码的版本标识，包含出图后的三票检查关卡，并要求用户本人明确确认。Windows 编译包包含该关卡使用的 Pillow。
+
+### 历史 dev8
+
+- [Windows 64 位 · dev8](https://github.com/jasperhex45-design/hex-agent-download/raw/refs/heads/main/HEX-Windows-x64-dev8.zip)
+- [Mac · Apple 芯片 · dev8](https://github.com/jasperhex45-design/hex-agent-download/raw/refs/heads/main/HEX-macOS-apple-silicon-dev8.tar.gz)
+- [Mac · Intel 芯片 · dev8](https://github.com/jasperhex45-design/hex-agent-download/raw/refs/heads/main/HEX-macOS-intel-dev8.tar.gz)
 
 解压后阅读包内使用说明，并确保已安装 Codex 命令行。Windows 可运行包内安装脚本；Mac 请按包内说明在终端配置。完成后重启 Codex，对它说「用 HEX」。
 
-Mac 试用版尚未签名和公证，可能被系统拦截。三个版本已通过基础检查，尚未在其他用户电脑完成完整安装和真实出图验收。
+Mac 试用版尚未签名和公证，可能被系统拦截。编译包已通过对应平台的基础检查，尚未在其他用户电脑完成完整安装和真实出图验收。dev17 macOS 原生构建结果将在完成验证后追加。
 
-dev8 测试版 · 仅限非商业使用和测试；未经授权不得转发、修改或商用。可分享本页面链接。
+仅限非商业使用和测试；未经授权不得转发、修改或商用。可分享本页面链接。完整条款见包内及本仓库的 LICENSE。
