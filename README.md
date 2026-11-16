@@ -14,7 +14,7 @@ HEX Agent 是 Codex 里的视觉创作搭档。
 
 ## 下载
 
-当前新增试用版为 **1.0.0a9.dev17**。本分支用于审核下载更新，PR 合并后才会更新 main 页面。
+当前新增试用版为 **1.0.0a9.dev17**。
 
 - [Windows 64 位 · dev17](https://github.com/jasperhex45-design/hex-agent-download/raw/4448db2f7c3fc8203b3724c7fc0afcead5f7d87e/HEX-Windows-x64-dev17.zip)
 - [Mac · Apple 芯片 · dev17](https://github.com/jasperhex45-design/hex-agent-download/raw/eb657b2bb636d9a2aec0e1a663ed061149fdc3cd/HEX-macOS-apple-silicon-dev17.tar.gz)
