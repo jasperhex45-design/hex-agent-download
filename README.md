@@ -16,7 +16,7 @@ HEX Agent 是 Codex 里的视觉创作搭档。
 
 当前新增试用版为 **1.0.0a9.dev17**。本分支用于审核下载更新，PR 合并后才会更新 main 页面。
 
-- [Windows 64 位 · dev17](https://github.com/jasperhex45-design/hex-agent-download/raw/refs/heads/release/dev17-packages/HEX-Windows-x64-dev17.zip)
+- [Windows 64 位 · dev17](https://github.com/jasperhex45-design/hex-agent-download/raw/4448db2f7c3fc8203b3724c7fc0afcead5f7d87e/HEX-Windows-x64-dev17.zip)
 
 文件校验见 [SHA256SUMS.txt](SHA256SUMS.txt)。dev17 同步当前代码的版本标识，包含出图后的三票检查关卡，并要求用户本人明确确认。Windows 编译包包含该关卡使用的 Pillow。
 
