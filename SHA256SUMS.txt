@@ -3,3 +3,4 @@
 296aaa4b9fc16c237eec3398fe25c9798aac65f1ddc9a68eb7439752305860af  HEX-macOS-intel-dev8.tar.gz
 54dbb37cc16ccc433a5d582790b26da99b05560584d7d11b7109173b3eda6515  HEX-Windows-x64-dev17.zip
 efb149ca419e0e51e2501bb8252d3b7809b37d9817b29ef671cf1f68a4715a11  HEX-macOS-apple-silicon-dev17.tar.gz
+1c62d32f51eacf228ed97d33ab4397ad0dd98a05f6718f9ebd6f068e8bf37ffc  HEX-macOS-intel-dev17.tar.gz
